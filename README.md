@@ -21,7 +21,7 @@ npm install
  ```bash
  npm start
  ```
-  * The development server should be running on [localhost]
+  * The development server should be running on [localhost](http://localhost:3000/) port 3000
 ___
 ### Build static Files
 ```bash 
